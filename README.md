@@ -1,2 +1,4 @@
-# bluder
-bluder is a desktop application for downloading files and youtube videos
+#desktop_application_for_downloading_files
+
+program for internet download manager project :
+python version = 3.6
